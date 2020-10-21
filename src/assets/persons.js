@@ -26998,6 +26998,23 @@ export const data = {
         state: "Cebu",
         country: "Philippines",
       },
+    },
+    {
+      id: uuidv4(),
+      name: "Mare Robert",
+      img:
+        "https://avatars0.githubusercontent.com/u/44175431?s=400&u=537e537c7e48d4f0260ba7f7e11525cc06549bb6&v=4",
+      links: {
+        website: "",
+        linkedin: "https://www.linkedin.com/in/robert-mare-a20a59158/",
+        github: "https://github.com/capnv12",
+      },
+      jobTitle: "Full Stack Developer | Python Developer | Data Scientist",
+      location: {
+        city: "Oradea",
+        state: "Bihor",
+        country: "Romania",
+      },
     }
   ],
 }
